@@ -29,5 +29,10 @@
 | 23 | [hndshkBot](https://github.com/handshake-org/hndshkBot) | IRC bot for developer faucet | JavaScript | 3 | 1 |
 | 24 | [libhns](https://github.com/handshake-org/libhns) | C library for resolving Handshake names (fork of c-ares) | C++ | 20 | 4 |
 
-## Atlas Chats about Handshake Topics
-
+## LLM Chats about Handshake Topics
+| # | Date | GitHub Org | LLM | Topic | Website as context
+|---|--------|-------------|--------------|
+| 1 | 2025-10-22 | [gwas-ai](https://github.com/gwas-ai) | atlas | handshake | url |
+| 2 | 2025-10-22 | [gwas-ai](https://github.com/gwas-ai) | atlas | handshake
+https://github.com/gwas-ai/gwas-handshake/blob/main/atlas-chat-1-gwas-handshake.md
+https://github.com/gwas-ai/gwas-handshake/blob/main/atlas-chat-2-gwas-handshake.md
